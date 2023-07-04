@@ -33,5 +33,3 @@ Then run the following commands to run your app:
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
 **Client**: Flutter, Provider
-
-# instagram_flutter
